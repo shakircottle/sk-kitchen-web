@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24.870003mm"
+   height="24.870003mm"
+   viewBox="0 0 24.870003 24.870003"
+   version="1.1"
+   id="svg9674"
+   xml:space="preserve"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="wall-clock.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview9676"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.104894"
+     inkscape:cx="50.231062"
+     inkscape:cy="31.224714"
+     inkscape:window-width="1390"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" /><defs
+     id="defs9671" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-61.730336,-114.64509)"><circle
+       style="opacity:0.930091;fill:#4d1a56;fill-opacity:1;stroke:#4d1a56;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path12765"
+       cx="74.165337"
+       cy="127.08009"
+       r="12.435" /><path
+       style="opacity:0.930091;fill:#ffffff;fill-opacity:1;stroke:#fffaff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 74.165335,117.58546 v 9.3376"
+       id="path14431" /><path
+       style="opacity:0.930091;fill:#ffffff;fill-opacity:1;stroke:#fffaff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84.070984,127.08009 h -9.82099"
+       id="path16377" /></g></svg>
